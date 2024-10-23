@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I’m @dainqd
 
-<!--
-**15Kdainq/15Kdainq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I’m interested in web development, software testing, and cross-platform app development.
+- 🌱 I’m currently learning more about ReactNative and improving my coding skills.
+- 💞️ I’m looking to collaborate on projects involving PHP, Java, C#, autotest, ReactJS, and Flutter.
+- 📫 How to reach me: You can contact me via [ngodaix5tp@gmail.com] or connect with me on [Facebook](https://www.facebook.com/dainqd).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m passionate about exploring different coding frameworks while enjoying the vibrant atmosphere of Vietnam!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+dainqd/dainqd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
